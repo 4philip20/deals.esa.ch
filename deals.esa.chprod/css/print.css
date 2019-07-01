@@ -1,0 +1,13 @@
+@media print{
+  .tab-pane,
+  .nav,
+  .form-group,
+  .footer,
+  .btn,
+  .panel-group{
+  	display:none;
+  }
+  .brand{
+  	width: 20%;
+  }
+}

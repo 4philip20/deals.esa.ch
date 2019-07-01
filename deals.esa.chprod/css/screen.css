@@ -1,0 +1,6 @@
+@media screen {
+  .screenhide,
+  h3,
+  .signatur{
+   display: none;
+  }
